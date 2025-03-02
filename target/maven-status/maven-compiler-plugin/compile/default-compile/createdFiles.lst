@@ -1,4 +1,6 @@
 com\thh\service\QuestionService.class
+com\thh\service\ChoiceService.class
 com\thh\english_course\English_course.class
+com\thh\pojo\Choice.class
 com\thh\pojo\Question.class
 com\thh\service\JdbcUtils.class
