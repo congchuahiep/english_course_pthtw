@@ -3,15 +3,16 @@
  */
 package com.thh.english_course;
 
-import com.thh.pojo.Question;
-import com.thh.pojo.Choice;
-import com.thh.service.ChoiceService;
-import com.thh.service.QuestionService;
 import java.sql.SQLException;
 import java.util.List;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import com.thh.pojo.Choice;
+import com.thh.pojo.Question;
+import com.thh.service.ChoiceService;
+import com.thh.service.QuestionService;
 
 /**
  *
